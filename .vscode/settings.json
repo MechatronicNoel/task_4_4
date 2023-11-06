@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "hardware.h": "c",
+        "hardware_deff.h": "c"
+    }
+}
