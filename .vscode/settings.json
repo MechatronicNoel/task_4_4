@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "hardware.h": "c",
-        "hardware_deff.h": "c"
+        "hardware_deff.h": "c",
+        "app.h": "c",
+        "spi.h": "c"
     }
 }
